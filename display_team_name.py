@@ -16,5 +16,4 @@ if __name__ == '__main__':
     print("My name is AmyJane Reilly")
     print("My name is Daniel Miller")
 
->>>>>>> 345b5251cb249ea676bbe784e29d7d07bf1c7815
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
