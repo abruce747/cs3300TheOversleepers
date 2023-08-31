@@ -13,7 +13,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Team name: The Oversleepers')
-    print("My name is ")
+    print("My name is Andy")
     print("My name is AmyJane Reilly")
     print("My name is Daniel Miller")
     print("My name is Oscar Mavila")
