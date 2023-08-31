@@ -12,7 +12,9 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Team name: The Oversleepers')
-    print_hi('Hello, my name is Trey DeaBueno')
-    print_hi('Hi, I am Oscar Mavila')
+    print("My name is Andy Bruce")
+    print("My name is AmyJane Reilly")
+    print("My name is Daniel Miller")
+    print("My name is Trey DeaBueno")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
