@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Team name: The Oversleepers')
     print("My name is AmyJane Reilly")
-    print("My name is Daniel")
+    print("My name is Daniel Miller")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
